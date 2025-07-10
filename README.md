@@ -181,10 +181,6 @@ llm_instance = ChatOllama(
 )
 ```
 
-### Alternative: Using Azure OpenAI
-
-To use Azure OpenAI instead of local Ollama, uncomment the Azure configuration in `llm_model.py` and update your API credentials.
-
 ## Troubleshooting
 
 ### 1. Ollama Connection Issues
