@@ -3,7 +3,7 @@ from langchain_core.messages import HumanMessage, AIMessage
 
 print("\n******STARTING APP******\n")
 
-user_input = "what's of 2 * 4 ??"
+user_input = "what's of 2 * 4 * 1 * 2??"
 print(f"User input: {user_input}")
 
 # LangGraph expects messages format
