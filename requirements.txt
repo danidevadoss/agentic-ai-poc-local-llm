@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+langchain_ollama
+langchain-community
+gpt4all
+langgraph
