@@ -190,7 +190,6 @@ llm_instance = ChatOllama(
 
 ### 2. Function Calling Issues
 - Some local models have limited function calling support
-- Try using Azure OpenAI for better tool calling capabilities
 - Ensure your prompt is clear and specific
 
 ### 3. Memory Issues
